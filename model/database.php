@@ -4,6 +4,7 @@
     // How to add your port (check your port from xampp)
     // $dsn = 'mysql:host=127.0.0.1;port=3310;dbname=world';
 
+    // Create a new user in phpMyAdmin
     //$username = 'INSERT YOUR USERNAME';
     //$password = 'INSERT YOUR PASSWORD';
 
